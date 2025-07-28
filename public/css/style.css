@@ -1,0 +1,63 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .hero-section {
+    padding: 4rem 0;
+  }
+  
+  .genre-section {
+    margin-top: 3rem;
+  }
+  
+  .genre-section h3 {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .genre-description {
+    color: #6c757d;
+    margin-bottom: 1rem;
+  }
+  
+  .card-custom {
+    width: 180px;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 0.5rem;
+  }
+  
+  .card-custom img {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    height: 240px;
+    object-fit: cover;
+  }
+  
+  .card-custom .card-body {
+    padding: 0.75rem;
+  }
+  
+  .yellow-placeholder {
+    width: 180px;
+    height: 320px;
+    background-color: #ffeb3b;
+    border-radius: 0.5rem;
+    padding: 1rem;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 2rem 0;
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 768px) {
+    .card-custom,
+    .yellow-placeholder {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
