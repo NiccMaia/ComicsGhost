@@ -15,9 +15,9 @@
 
 ### Clonar o repositorio
 ```bash
-git clone https://github.com/felixAmandy/commands_git.git
+git clone https://github.com/NiccMaia/commands_git.git
 # ou se estiver utilizando chave SSH
-git clone git@github.com:felixAmandy/commands_git.git
+git clone git@github.com:NiccMaia/commands_git.git
 ```
 
 # ⚙️ Executar Projeto
