@@ -32,9 +32,3 @@ php artisan migrate && php artisan db:seed --class=HqsSeeder && php artisan serv
 Este comando irá primeiro executar migrações pendentes, depois popular o banco de dados e, finalmente, iniciar o servidor do Laravel.
 Abra o seu browser e navegue até `http://127.0.0.1:8000/`. 
 
-# 📑 Recursos adicionais
-
-Para obter mais informações sobre o projeto navegue pela aplicação e dê uma olhadinha no nosso [repositório](https://github.com/AmandaFelix-dev/ComicsGhost).
-
-
-### 😁 Enjoy!
